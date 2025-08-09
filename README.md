@@ -1,2 +1,2 @@
-# SONAR-SYSTEM-FOR-KILLING-MOSQUITO
-TATHVA is a rotating ultrasonic radar system that scans the surroundings for potential mosquito movement and notifies the user through audible alerts played on a laptop speaker.  It’s intentionally over-engineered for such a tiny threat
+# SONAR-SYSTEM-FOR-KILLING-MOSQUITO(T.A.T.H.V.A. – Tactical Anti-Threat Hyperactive Vibro-Acoustic system)
+TATHVA is a rotating ultrasonic radar system that scans the surroundings for potential mosquito movement and notifies the user through audible alerts played on a laptop speaker.  It’s intentionally over-engineered for such a tiny threat making it the perfect entry for a useless project expo while still demonstrating servo control, ultrasonic sensing, and real-time data visualization.
