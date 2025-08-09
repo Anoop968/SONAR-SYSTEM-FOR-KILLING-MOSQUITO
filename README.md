@@ -74,7 +74,8 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
+![IMG_20250809_203041 (1)](https://github.com/user-attachments/assets/addd22c6-134a-4fdd-bd0e-57e0dac8dc2b)
+
 *List out all components shown*
 
 ![Build](Add photos of build process here)
